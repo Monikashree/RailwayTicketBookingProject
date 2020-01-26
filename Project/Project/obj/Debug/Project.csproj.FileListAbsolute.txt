@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\ELCOT\Documents\Visual Studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
